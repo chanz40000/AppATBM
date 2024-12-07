@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: testUI.AppATBM
+Class-Path: javafx-graphics-20.0.2.jar javafx-graphics-20.0.2-win.jar ja
+ vafx-fxml-20.0.2.jar bcprov-jdk15on-1.70.jar javafx-fxml-20.0.2-win.jar
+  javafx-controls-20.0.2.jar javafx-base-20.0.2-win.jar javafx-controls-
+ 20.0.2-win.jar javafx-base-20.0.2.jar
+

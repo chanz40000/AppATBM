@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DoAnATBM:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoAnATBM_jar2</output-path>
+    <root id="archive" name="DoAnATBM.jar">
+      <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk15on:1.70" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:20.0.2" />
+      <element id="module-output" name="DoAnATBM" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:20.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:20.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:20.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:20.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:20.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:20.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:20.0.2" />
+    </root>
+  </artifact>
+</component>
